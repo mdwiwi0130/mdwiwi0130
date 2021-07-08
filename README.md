@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @mdwiwi0130
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+```
+                                                 由「業餘」成為「業餘玩家」。
+                                                 由「策略」成為「策略玩家」。
+                                                 由「努力」造就「菁英玩家」。
+                                                    創意無限，玩轉世界。
+```
+- 👀 
+- 🌱 
+- 💞️
+- 📫
 
 <!---
 mdwiwi0130/mdwiwi0130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
