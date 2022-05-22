@@ -1,16 +1,3 @@
-- 👋 Hi, I’m @mdwiwi0130
-```
-                                                 由「業餘」成為「業餘玩家」。
-                                                 由「策略」成為「策略玩家」。
-                                                 由「努力」造就「菁英玩家」。
-                                                    創意無限，玩轉世界。
-```
-- 👀 
-- 🌱 
-- 💞️
-- 📫
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdwiwi0130&show_icons=true&theme=tokyonight)
 
-<!---
-mdwiwi0130/mdwiwi0130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwiwi0130&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
