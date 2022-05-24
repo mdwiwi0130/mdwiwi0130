@@ -1,7 +1,9 @@
 [![readme](https://github.com/mdwiwi0130/mdwiwi0130/blob/main/github_readme(%40mdwiwi0130).svg)](https://youtu.be/dQw4w9WgXcQ)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&center=true&vCenter=true&lines=Hi%2Cwelcome+to+my+Github.;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
-
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&center=true&lines=Hi%2Cwelcome+to+my+Github.;%E5%97%A8%EF%BC%8C%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github'/>
+</div>
+<!--  僅需修改 &lines 以後之部分，即可更改顯示的文字內容 
 <!--https://readme-typing-svg.herokuapp.com/demo/-->
 
 嗨，你好👋<br>
@@ -37,6 +39,10 @@
   </tr>
 </table>
 <!--https://github.com/anuraghazra/github-readme-stats-->
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdwiwi0130&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## Google 學習徽章
 Timezone: `Asia/Taiwan`
