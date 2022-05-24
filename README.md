@@ -8,7 +8,7 @@
 
 ---
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E5%B7%B2%E5%8E%BB%E8%83%8C).svg"></a>
+  <a href="https://waylonwalker.com/latest"><img width="200" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E5%B7%B2%E5%8E%BB%E8%83%8C).svg"></a>
 </p>
 
 ### 目標
