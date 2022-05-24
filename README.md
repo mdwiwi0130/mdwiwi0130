@@ -7,9 +7,8 @@
 我也正藉著 學校資訊科技課程 與 課後搜尋資訊教學 的方式來學習程式、專案開法的相關知識<br>
 
 ---
-
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="210" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn.svg"></a>
+  <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn.svg"></a>
 </p>
 
 ### 目標
@@ -21,6 +20,7 @@
 - To do
   - ?????
 
+<br>
 
 ---
 
