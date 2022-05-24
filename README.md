@@ -38,7 +38,7 @@
   - Python
   - Android App 開發
 - To do
-  - ?????
+  - 試著開發一個 Android App
 
 <br>
 
