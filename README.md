@@ -57,7 +57,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdwiwi0130&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
-## Google 學習徽章
+## Google Badges
 Timezone: `Asia/Taiwan`
 * [Google Cloud 開發者技術培訓畫計 2021 TW/HK 學習紀錄](https://google.qwiklabs.com/public_profiles/f9c5eee9-1702-4f1f-82d5-74d2d99c621b)
 * [Android Study Jam - Android App 開發學習計畫](https://g.dev/mdwiwi0130)
