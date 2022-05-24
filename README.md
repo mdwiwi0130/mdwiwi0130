@@ -1,5 +1,9 @@
 [![readme](https://github.com/mdwiwi0130/mdwiwi0130/blob/main/github_readme(%40mdwiwi0130).svg)](https://youtu.be/dQw4w9WgXcQ)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&center=true&vCenter=true&lines=Hi%2Cwelcome+to+my+Github.;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+
+<!--https://readme-typing-svg.herokuapp.com/demo/-->
+
 嗨，你好👋<br>
 我是名來自台灣的學生<br>
 我接觸過 C++、Python ...等語言，也不斷正在精進程式語言的能力<br>
