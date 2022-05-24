@@ -1,3 +1,5 @@
+![readme](https://github.com/mdwiwi0130/mdwiwi0130/blob/main/github_readme(%40mdwiwi0130).svg)
+
 嗨，你好👋<br>
 我是名來自台灣的學生<br>
 我接觸過 C++、Python ...等語言，也不斷正在精進程式語言的能力<br>
