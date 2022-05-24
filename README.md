@@ -1,16 +1,3 @@
-<p align="center">
-  <a href="https://www.youtube.com/channel/UChevPQ3XDlymW9gsFw0zhKQ">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
-  <a href="copy:mdwiwi0130@gmail.com">
-    <img alt="gmail" title="聯絡 @mdwiwi0130" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="copy:何奈川#7474">
-    <img alt="discord" title="聯絡 @mdwiwi0130 吧!" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-  <a href="https://replit.com/@mdwiwi0130">
-     <img alt="repl.it" title="想看 @mdwiwi0130 大顯神威!" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-    <img alt="paypal" title="支持 @mdwiwi0130 吧!" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> 
-</p>
-
-
 [![readme](https://github.com/mdwiwi0130/mdwiwi0130/blob/main/github_readme(%40mdwiwi0130).svg)](https://youtu.be/dQw4w9WgXcQ)
 
 <div align='center'>
@@ -23,7 +10,20 @@
 我是名來自台灣的學生<br>
 我接觸過 C++、Python ...等語言，也不斷正在精進程式語言的能力<br>
 不只如此，我還對 網站開發、App開發、遊戲製作、Discord Bot...等領域深感興趣<br>
-我也正藉著 學校資訊科技課程 與 課後搜尋資訊教學 的方式來學習程式、專案開法的相關知識<br>
+我也正藉著 學校資訊科技課程 與 課後搜尋資訊教學 的方式來學習程式、專案開法的相關知識<br><br>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UChevPQ3XDlymW9gsFw0zhKQ">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+  <a href="copy:mdwiwi0130@gmail.com">
+    <img alt="gmail" title="聯絡 @mdwiwi0130" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="copy:何奈川#7474">
+    <img alt="discord" title="聯絡 @mdwiwi0130 吧!" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
+  <a href="https://replit.com/@mdwiwi0130">
+     <img alt="repl.it" title="想看 @mdwiwi0130 大顯神威!" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+    <img alt="paypal" title="支持 @mdwiwi0130 吧!" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> 
+</p>
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-github-profile-summary-card-  -->
 
 ---
 <p>
