@@ -27,7 +27,7 @@
 
 ---
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83).svg"></a>
+  <a href=""><img width="400" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83).svg"></a>
 </p>
 <!-- src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E5%B7%B2%E5%8E%BB%E8%83%8C).svg" -->
 
