@@ -1,4 +1,4 @@
-[![readme](https://github.com/mdwiwi0130/mdwiwi0130/blob/main/github_readme(%40mdwiwi0130).svg)](https://youtu.be/dQw4w9WgXcQ)
+[![readme](https://github.com/mdwiwi0130/mdwiwi0130/blob/3cbe9a9a0eec185695c50fcc24292896c5810dc5/docs/image/github_readme(@mdwiwi0130).svg)](https://www.youtube.com/channel/UChevPQ3XDlymW9gsFw0zhKQ)
 
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&center=true&lines=Hi%2Cwelcome+to+my+Github.;%E5%97%A8%EF%BC%8C%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github'/>
@@ -27,7 +27,7 @@
 
 ---
 <p>
-  <a href=""><img width="400" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83).svg"></a>
+  <a href=""><img width="400" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/3cbe9a9a0eec185695c50fcc24292896c5810dc5/docs/image/To%20learn(%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83).svg"></a>
 </p>
 <!-- src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E5%B7%B2%E5%8E%BB%E8%83%8C).svg" -->
 
