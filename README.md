@@ -36,9 +36,8 @@
 - To learn
   - C++
   - Python
-  - 
 - To do
-  - 
+
 
 <br>
 
