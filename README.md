@@ -36,9 +36,9 @@
 - To learn
   - C++
   - Python
-  - Android App 開發
+  - 
 - To do
-  - 試著開發 Android App
+  - 
 
 <br>
 
