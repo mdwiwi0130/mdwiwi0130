@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UChevPQ3XDlymW9gsFw0zhKQ">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
-  <a href="copy:mdwiwi0130@gmail.com">
+  <a href="mailto:mdwiwi0130@gmail.com">
     <img alt="gmail" title="聯絡 @mdwiwi0130" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://discordapp.com/users/677901091991715863">
     <img alt="discord" title="聯絡 @mdwiwi0130 吧!" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
