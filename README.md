@@ -46,13 +46,14 @@
 
 ---
 
-## GitHub Stats
+<!--## GitHub Stats
 <table>
   <tr>
     <td><img src="https://github-readme-stats.api.dev.neko7sora.site/api?username=mdwiwi0130&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=true" /></td>
     <td><img src="https://github-readme-stats.api.dev.neko7sora.site/api/top-langs/?username=mdwiwi0130&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=true"/></td>
   </tr>
 </table>
+-->
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
 ## STREAK STATS
