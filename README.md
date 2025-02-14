@@ -36,10 +36,10 @@
 ### 目標
 
 - To learn
-  - C++
-  - Python
+  - web 開發
 - To do
-  - Unity 開發 
+  - SQL
+  - Docker
 
 
 <br>
