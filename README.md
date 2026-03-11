@@ -27,12 +27,13 @@
 </p>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-github-profile-summary-card-  -->
 
+<!-- 
 ---
 <p>
   <a href=""><img width="400" align='right' src="https://github.com/mdwiwi0130/mdwiwi0130/blob/3cbe9a9a0eec185695c50fcc24292896c5810dc5/docs/image/To%20learn(%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83).svg"></a>
-</p>
+</p> -->
 <!-- src="https://github.com/mdwiwi0130/mdwiwi0130/blob/main/To%20learn(%E5%B7%B2%E5%8E%BB%E8%83%8C).svg" -->
-
+<!-- 
 ### 目標
 
 - To learn
@@ -45,6 +46,7 @@
 <br>
 
 ---
+-->
 
 <!--## GitHub Stats
 <table>
