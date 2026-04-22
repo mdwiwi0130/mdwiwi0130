@@ -20,10 +20,10 @@
     <img alt="gmail" title="聯絡 @mdwiwi0130" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://discordapp.com/users/677901091991715863">
     <img alt="discord" title="聯絡 @mdwiwi0130 吧!" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-  <a href="https://replit.com/@mdwiwi0130">
-     <img alt="repl.it" title="想看 @mdwiwi0130 大顯神威!" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-  <a href="https://www.paypal.com/paypalme/my/profile">
-    <img alt="paypal" title="支持 @mdwiwi0130 吧!" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> 
+   <a href="https://www.linkedin.com/in/naiye130">
+    <img alt="Linkedin" title="聯絡 @mdwiwi0130 吧!" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+
+
 </p>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-github-profile-summary-card-  -->
 
