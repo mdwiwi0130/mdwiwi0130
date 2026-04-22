@@ -11,7 +11,8 @@
 我接觸過 C++、Python ...等語言，也不斷正在精進程式語言的能力<br>
 不只如此，我還對 網站開發、App開發...等領域深感興趣<br>
 我也正藉著 學校資訊科技課程 與 課後搜尋資訊教學...等方式來學習程式、專案開的相關知識<br>
-你或許也可以來參觀我的[Blog](https://naiye130.netlify.app/)，來更認識我<br><br>
+<!-- 你或許也可以來參觀我的[Blog](https://naiye130.netlify.app/)，來更認識我 -->
+<br>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UChevPQ3XDlymW9gsFw0zhKQ">
