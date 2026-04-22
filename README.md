@@ -10,7 +10,7 @@
 我是名來自台灣的學生<br>
 我接觸過 C++、Python ...等語言，也不斷正在精進程式語言的能力<br>
 不只如此，我還對 網站開發、App開發...等領域深感興趣<br>
-我也正藉著 學校資訊科技課程 與 課後搜尋資訊教學...等方式來學習程式、專案開法的相關知識<br>
+我也正藉著 學校資訊科技課程 與 課後搜尋資訊教學...等方式來學習程式、專案開的相關知識<br>
 你或許也可以來參觀我的[Blog](https://naiye130.netlify.app/)，來更認識我<br><br>
 
 <p align="center">
@@ -23,6 +23,13 @@
    <a href="https://www.linkedin.com/in/naiye130">
     <img alt="Linkedin" title="聯絡 @mdwiwi0130 吧!" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
+##  Project Experience | 專案經驗
+* 逢甲大學健康中心案件即時通
+> 本系統主要用於協助健康中心進行傷病案件的登記、管理與統計分析。系統提供案件建立、查詢與統計、個案管理等功能，以取代過往紙本紀錄方式，提升資料管理效率與準確性。
+> 
+> This system is primarily designed to assist health centers in the registration, management, and statistical analysis of injury and illness cases. By providing features such as case creation, inquiries, statistics, and case management, the system replaces traditional paper-based records to enhance the efficiency and accuracy of data management.
+> 
+> News：[逢甲大學官方新聞](https://www.fcu.edu.tw/news/2026030901/)、[Youtube](https://www.youtube.com/watch?v=EnrWHkq7QM8)
 
 </p>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-github-profile-summary-card-  -->
